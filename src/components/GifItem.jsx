@@ -1,7 +1,7 @@
 import propTypes from 'prop-types';
 
 
-export const GifItem = ( { title, url  } ) => {
+export const GifItem = ( { title, url } ) => {
 
   return (
     <div className="card">
